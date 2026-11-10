@@ -133,7 +133,7 @@ The supplied evidence includes:
     labels.
 -   PDF report generation: completed successfully.
 
-See `Test_Plan_and_Execution_Evidence.docx` for expected outcomes,
+See `Test_Plan_and_Execution_Evidence.pdf` for expected outcomes,
 actual results, and test interpretations.
 
 ## Security and ethical use
