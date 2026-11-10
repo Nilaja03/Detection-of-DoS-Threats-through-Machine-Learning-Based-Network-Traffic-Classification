@@ -1,0 +1,50 @@
+{
+  "accuracy": 0.9938333333333333,
+  "classification_report": {
+    "BENIGN": {
+      "precision": 0.9910134797803295,
+      "recall": 0.9925,
+      "f1-score": 0.9917561828628528,
+      "support": 2000.0
+    },
+    "DoS": {
+      "precision": 0.994,
+      "recall": 0.994,
+      "f1-score": 0.994,
+      "support": 2000.0
+    },
+    "PortScan": {
+      "precision": 0.9964947421131698,
+      "recall": 0.995,
+      "f1-score": 0.9957468101075807,
+      "support": 2000.0
+    },
+    "accuracy": 0.9938333333333333,
+    "macro avg": {
+      "precision": 0.9938360739644998,
+      "recall": 0.9938333333333333,
+      "f1-score": 0.9938343309901444,
+      "support": 6000.0
+    },
+    "weighted avg": {
+      "precision": 0.9938360739644997,
+      "recall": 0.9938333333333333,
+      "f1-score": 0.9938343309901444,
+      "support": 6000.0
+    }
+  },
+  "classes": [
+    "BENIGN",
+    "DoS",
+    "PortScan"
+  ],
+  "features": [
+    "Destination Port",
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Flow Bytes/s"
+  ],
+  "training_rows": 24000,
+  "testing_rows": 6000
+}
