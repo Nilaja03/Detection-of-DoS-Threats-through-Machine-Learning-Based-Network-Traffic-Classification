@@ -54,30 +54,6 @@ the classified output yielded **99.38% accuracy (5,963/6,000)**. This is
 a held-out benchmark-dataset result, not a guarantee of performance on
 live traffic or other networks.
 
-## Repository layout (recommended)
-
-``` text
-project/
-├── app.py
-├── model_training.ipynb
-├── requirements.txt
-├── README.md
-├── models/
-│   └── threat_detector.joblib
-├── data/
-│   └── test_flows.csv
-├── outputs/
-│   ├── classified_network_flows.csv
-│   └── AI_Web_Security_Audit_Report.pdf
-├── screenshots/
-└── docs/
-    ├── Technical_Report_Network_Security_Framework.docx
-    └── Test_Plan_and_Execution_Evidence.docx
-```
-
-Do not commit private credentials, tunnel tokens, API keys, or personal
-access tokens. Check the repository history before publishing files.
-
 ## Environment and dependencies
 
 The notebook was developed for Google Colab. It installs system-level
