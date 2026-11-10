@@ -1,10 +1,8 @@
-# Integrated Network Security Auditing and Machine Learning-Based Traffic Classification
+# Detection of Port Scanning and DoS Threats through Machine Learning-Based Network Traffic Classification and Exposed Port Auditing 
 
 **Student:** Nilanjana Jamindar\
-**USN:** 1RUB25CSE0013\
 **Programme:** M.Tech Computer Science and Engineering\
 **Institution:** RV University, Bengaluru\
-**Guide:** Dr. Basavaraj Patil
 
 ## Project overview
 
