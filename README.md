@@ -2,7 +2,7 @@
 
 **Student:** Nilanjana Jamindar\
 **Programme:** M.Tech Computer Science and Engineering\
-**Institution:** RV University, Bengaluru\
+**Institution:** RV University, Bengaluru
 
 ## Project overview
 
